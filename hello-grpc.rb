@@ -1,9 +1,9 @@
 class HelloGrpc < Formula
   desc "hello-grpc"
   homepage "https://appscode.com"
-  url "https://github.com/appscode/hello-grpc/releases/download/0.1.5/hello-grpc_0.1.5_darwin_x86_64.tar.gz"
-  version "0.1.5"
-  sha256 "77a667081545f620ac9545eca9b67e76d72ea04a0613e73ace99f1cba28133a3"
+  url "https://github.com/appscode/hello-grpc/releases/download/0.1.6/hello-grpc_0.1.6_darwin_x86_64.tar.gz"
+  version "0.1.6"
+  sha256 "1e0e1d5554b0de162ea917729d65042fa18e6b111b9cf4a06ce22a22b4a6a35d"
 
   def install
     bin.install "hello-grpc"
